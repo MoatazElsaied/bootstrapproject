@@ -1,0 +1,141 @@
+* {
+    margin: 0px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: 'Tajawal', sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+* ::-webkit-scrollbar-thumb {
+    background-color: #0097DB;
+    border-radius: 0px;
+}
+
+* ::-webkit-scrollbar {
+    width: 3px;
+    background-color: transparent;
+}
+
+.overflowNone {
+    overflow: hidden;
+}
+
+.navbar .nav a,
+.nav a {
+    color: white!important;
+    font-size: 10px;
+}
+
+.navbar-brand {
+    background-color: white!important;
+}
+
+.navbar2 a {
+    background-color: #eee;
+    color: black!important;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.input-group-text {
+    background-color: #334eff!important;
+    color: #f4f8fb;
+    cursor: pointer;
+}
+.mypic{
+    padding-left: 2rem!important;
+}
+.mypic1{
+    padding-left: 8.5rem!important;
+
+}
+.rate {
+    color: #f57d1f;
+}
+
+/* foooterrr */
+
+footer {
+    width: 100%;
+    padding: 50px 0px 10px 0px;
+    background-color: #f4f8fb;
+}
+
+.content h5 {
+    font-weight: bolder;
+    text-align: end;
+}
+
+footer .content h6,
+.content p {
+    text-align: end;
+}
+
+.content img {
+    float: right;
+}
+
+.content .social-media i {
+    color: #334eff;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.content .social-media {
+    text-align: end;
+}
+
+.content .social-media i:hover {
+    font-size: 20px;
+    color: black;
+}
+
+.content .images img {
+    padding-left: 40px;
+}
+#nav1-home-tab{
+    font-size: 16px;
+    background-color: #eee;
+    width: 25%;
+    margin-top: 25px;
+}
+#nav1-home-tab:hover{
+    background-color: #f4f8fb;
+    text-decoration: solid;
+    border: 1px solid black;
+}
+#nav2-home-tab{
+    font-size: 14px;
+    background-color: #eee;
+    width: 25%;
+    margin-top: 25px;
+}
+#nav2-home-tab:hover{
+    background-color: #f4f8fb;
+    text-decoration: solid;
+    border: 1px solid black;
+}
+#nav3-home-tab{
+    font-size: 16px;
+    background-color: #eee;
+    width: 25%;
+    margin-top: 25px;
+}
+#nav3-home-tab:hover{
+    background-color: #f4f8fb;
+    text-decoration: solid;
+    border: 1px solid black;
+}
+/* .myslider{
+    width: 50% !important;
+}
+.myslider img{
+    width: 100% !important;
+}
+@media (max-width:768px){
+    .myslider img{
+    width: 300px !important;
+}
+} */
